@@ -1,0 +1,14 @@
+sunxi_crypto.c:23:12:__aw_endian4	0	static
+sunxi_crypto.c:36:12:__sha_padding	88	static
+sunxi_crypto.c:119:13:__rsa_padding	24	static
+sunxi_crypto.c:129:6:sunxi_ss_open	0	static
+sunxi_crypto.c:134:6:sunxi_ss_close	0	static
+sunxi_crypto.c:139:5:sunxi_trng_gen	416	static
+sunxi_crypto.c:183:5:sunxi_aes_with_hardware	440	static
+sunxi_crypto.c:246:5:sunxi_md5_calc	552	static
+sunxi_crypto.c:310:5:sunxi_sha_calc	552	static
+sunxi_crypto.c:377:5:sunxi_hash_test	552	static
+sunxi_crypto.c:444:5:sunxi_sm2_test	8	static
+sunxi_crypto.c:450:5:sunxi_normal_rsa	1840	dynamic,bounded
+sunxi_crypto.c:536:5:sunxi_rsa_calc	1840	dynamic,bounded
+sunxi_crypto.c:622:5:sunxi_create_rssk	544	static

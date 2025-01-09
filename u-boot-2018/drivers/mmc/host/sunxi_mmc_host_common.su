@@ -1,0 +1,2 @@
+sunxi_mmc_host_common.c:48:5:sunxi_auto_pow_mode	0	static
+sunxi_mmc_host_common.c:1152:5:sunxi_host_mmc_config	256	static

@@ -1,0 +1,11 @@
+sunxi-core.c:350:12:aw_spinand_panic_write	0	static
+sunxi-core.c:330:12:aw_spinand_block_markbad	56	static
+sunxi-core.c:310:12:aw_spinand_block_isbad	56	static
+sunxi-core.c:31:12:aw_spinand_erase	80	static
+sunxi-core.c:247:12:aw_spinand_write_oob	88	static
+sunxi-core.c:291:12:aw_spinand_write	56	static
+sunxi-core.c:178:12:aw_spinand_read_oob	88	static
+sunxi-core.c:229:12:aw_spinand_read	56	static
+sunxi-core.c:377:5:aw_spinand_probe	40	static
+sunxi-core.c:439:6:aw_spinand_exit	8	static
+sunxi-core.c:458:27:get_spinand	0	static

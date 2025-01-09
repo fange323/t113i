@@ -1,0 +1,12 @@
+clock_sun8iw20.c:17:6:clock_init_uart	8	static
+clock_sun8iw20.c:78:6:clock_get_pll6	8	static
+clock_sun8iw20.c:46:6:clock_get_pll_ddr	8	static
+clock_sun8iw20.c:95:6:clock_get_corepll	0	static
+clock_sun8iw20.c:129:6:clock_get_axi	8	static
+clock_sun8iw20.c:145:6:clock_get_ahb	16	static
+clock_sun8iw20.c:182:6:clock_get_apb1	16	static
+clock_sun8iw20.c:217:6:clock_get_apb2	16	static
+clock_sun8iw20.c:254:6:clock_get_mbus	8	static
+clock_sun8iw20.c:276:5:clock_set_corepll	16	static
+clock_sun8iw20.c:343:5:usb_open_clock	8	static
+clock_sun8iw20.c:386:5:usb_close_clock	8	static

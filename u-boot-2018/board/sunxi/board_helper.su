@@ -1,0 +1,15 @@
+board_helper.c:115:12:sunxi_str_replace	192	static
+board_helper.c:231:12:write_recovery_msg_to_misc	2064	static
+board_helper.c:490:12:sunxi_get_bootcmd_from_misc	4120	static
+board_helper.c:75:12:fdt_enable_node	16	static
+board_helper.c:47:5:update_fdt_dram_para	56	static
+board_helper.c:90:6:sunxi_dump	16	static
+board_helper.c:176:5:sunxi_str_replace_all	192	static
+board_helper.c:396:6:sunxi_respond_ir_key_action	8	static
+board_helper.c:540:5:sunxi_set_bootcmd	104	static
+board_helper.c:589:5:sunxi_update_bootcmd	136	static
+board_helper.c:642:5:secure_os_memory_init	16	static
+board_helper.c:657:5:sunxi_update_fdt_para_for_kernel	32	static
+board_helper.c:817:5:sunxi_update_partinfo	1248	static
+board_helper.c:899:5:sunxi_force_rotpk	0	static
+board_helper.c:906:5:sunxi_update_rotpk_info	24	static

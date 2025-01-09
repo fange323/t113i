@@ -1,0 +1,12 @@
+aw_phy.c:54:13:phy_gen2_en_hpd_rx_sense	16	static
+aw_phy.c:20:6:phy_set_reg_base	0	static
+aw_phy.c:25:11:phy_get_reg_base	0	static
+aw_phy.c:847:5:phy_configure	56	static
+aw_phy.c:856:5:phy_standby	16	static
+aw_phy.c:871:5:phy_enable_hpd_sense	8	static
+aw_phy.c:877:5:phy_disable_hpd_sense	8	static
+aw_phy.c:898:4:phy_hot_plug_state	8	static
+aw_phy.c:903:4:phy_rxsense_state	16	static
+aw_phy.c:911:4:phy_pll_lock_state	8	static
+aw_phy.c:917:4:phy_power_state	8	static
+aw_phy.c:922:6:phy_power_enable	16	static
